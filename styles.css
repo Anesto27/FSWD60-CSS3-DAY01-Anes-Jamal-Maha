@@ -1,0 +1,35 @@
+div{
+	border: dotted 2px;
+	margin: 20px;
+}
+
+
+/*.left div  p{
+
+visibility: hidden;
+
+}
+
+h1{
+
+	visibility: hidden;
+}
+
+
+.right div{
+
+	visibility: hidden;
+} */
+
+img{
+
+	visibility: visible;
+
+
+}
+
+.left div  p{
+
+	font-size: 2em;
+	color: red;
+}
